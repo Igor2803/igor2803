@@ -1,10 +1,10 @@
  Hi there Igor Augusto
 
-👨‍💻 Desenvolvedor Júnior.
-🎓 Formado em  Análise de Desenvolvimento de Sistemas, e já cursando Engenharia da Computação.
-✨ Apaixonado por desenvolvimento.
-🧠 Sempre buscando conhecimento e coisas novas para me tornar um Full-Stack de ponta.
-🌟 Estou aguardando com grande expectativa minha primeira oportunidade como programador.
+👨‍💻 Desenvolvedor Júnior.<br />
+🎓 Formado em  Análise de Desenvolvimento de Sistemas, e já cursando Engenharia da Computação.<br />
+✨ Apaixonado por desenvolvimento.<br />
+🧠 Sempre buscando conhecimento e coisas novas para me tornar um Full-Stack de ponta.<br />
+🌟 Estou aguardando com grande expectativa minha primeira oportunidade como programador.<br />
 
 
 Contato: 
