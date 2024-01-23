@@ -1,16 +1,15 @@
-### Hi there 👋
+ Hi there Igor Augusto
 
-<!--
-**Igor2803/igor2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Desenvolvedor Júnior.
+🎓 Formado em  Análise de Desenvolvimento de Sistemas, e já cursando Engenharia da Computação.
+✨ Apaixonado por desenvolvimento.
+🧠 Sempre buscando conhecimento e coisas novas para me tornar um Full-Stack de ponta.
+🌟 Estou aguardando com grande expectativa minha primeira oportunidade como programador.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contato: 
+<div>
+<a href="https://instagram.com/igor_reissantos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:igoraugustoreissantos@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/igor-augusto-reis-santos-740661159" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
